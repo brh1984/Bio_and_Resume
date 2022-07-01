@@ -12,7 +12,7 @@ email: brandon082084@gmail.com
 website: https://brh1984.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username:  brh1984
@@ -45,7 +45,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Brandon Horsley, and I'm a senior project manager at Siemens Gamesa Renewable Energy. As well as project management I also have experience engineering, process improvement, and training. I've worked in project management in the energy sector for 11 years, gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
