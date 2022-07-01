@@ -12,13 +12,13 @@ email: brandon082084@gmail.com
 website: https://brh1984.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 github_username:  brh1984
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: brandon.horsley.56
 # flickr_username: jekyll
 linkedin_username: brandon082084
 # xing_username: jekyll
@@ -28,9 +28,9 @@ linkedin_username: brandon082084
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
