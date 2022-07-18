@@ -76,10 +76,10 @@ content:
       - layout: left
         title: Siemens Gamesa Renewable Energy
         link: https://www.siemensgamesa.com/en-int
-        # link_text: siemensgamesa.com
+        link_text: siemensgamesa.com
         sub_title: Senior Project Manager, Americas Region
         caption: 2017 - Present
-        # quote: >
+        quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             As Senior Project Manager I am responsible for around 30-40% of our project portfolio.  I have a strong focus on collaboration with stakholders from multiple departments in multiple regions, to ensure project success and share best practices.  My last project included developing and managing the testing and implementation of a new web portal and software to streamline our service history tracking across a fleet of 3000 turbines.  Through process improvements I've been able to reduce preventive maintenance downtime by 36% in North America, and warehouse processing time by 50% in Latin America.
