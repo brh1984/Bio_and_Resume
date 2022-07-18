@@ -81,8 +81,7 @@ content:
         caption: 2017 - Present
         quote: > 
             As Senior Project Manager I am responsible for multiple large projects in our portfolio at a time.  I have a strong focus on collaboration with stakholders from multiple departments in multiple regions, to ensure project success and best practice sharing.
-        description: | # this will include new lines to allow paragraphs
-            <br>           
+        description: | # this will include new lines to allow paragraphs      
             <ul>
             <li><font size="-0.5">Manage 30-40% of project portfolio, worth ~$10 Million in positive P&L impact per year throughout North and South America.</font></li>
             <li><font size="-0.5">Develop strong collaborative relationships with stakeholders across other departments and other countries to achieve project targets and overall business objectives.</font></li>
@@ -94,15 +93,15 @@ content:
             </ul>
 
       - layout: top-middle
-        title: Siemens Energy, Inc
+        title: <hr> 
+               Siemens Energy, Inc
         link: https://www.siemens-energy.com/us/en.html?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb23wRe8QoKQWdkBxCfg6Q_FEQHNQmGvBPMk4KXSgtOXEQXv1Pc9wsQaAj1EEALw_wcB
         link_text: siemens-energy.com
         sub_title: Senior Project Manager, Americas Region
         caption: 2013 - 2017
-        quote: | #At Siemens Gamesa, we're constantly working on better solutions for renewables – to provide cleaner, more reliable and more affordable energy to society, and to create lasting value for all stakeholders.
-            <p style="font-style: italic;">As a project manager I was responsible for seeing all my projects through from defining to closing, as well as coach other project managers through the same process.</p>
+        quote: >
+            As a project manager I was responsible for seeing all my projects through from defining to closing, as well as coach other project managers through the same process.
         description: | # this will include new lines to allow paragraphs
-            <br>           
             <ul>
             <li><font size="-0.5">Managed projects from define to closing stages, building project teams, reporting to stakeholders, and managing project schedules and financials, leading to $2.77 million in positive P&L impact.</font></li>
             <li><font size="-0.5">Assumed management of struggling projects, recovering $2.05 million in previous losses.</font></li>
@@ -115,10 +114,9 @@ content:
         link_text: siemens-energy.com
         sub_title: Process Engineer
         caption: 2012 - 2013
-        quote: | #At Siemens Gamesa, we're constantly working on better solutions for renewables – to provide cleaner, more reliable and more affordable energy to society, and to create lasting value for all stakeholders.
-            <p style="font-style: italic;">This role focused on delivering specific measurable improvements for processes in supply chain, engineering, sales, and operations.</p>
+        quote: >
+            This role focused on delivering specific measurable improvements for processes in supply chain, engineering, sales, and operations.
         description: | # this will include new lines to allow paragraphs
-            <br>           
             <ul>
             <li><font size="-0.5">Organized and led process improvement events across North American service sites, totaling $313K in annual labor savings, reducing service lead times by 20%.</font></li>
             <li><font size="-0.5">Developed and ran training for 39 field personnel to run process improvements at their own sites, increasing project capacity from 1 event a week to 5-8 events a week, and increasing sustainability of event outcomes.</font></li>
@@ -131,10 +129,9 @@ content:
         link_text: siemens-energy.com
         sub_title: Engineer in Training Program
         caption: 2011 - 2012
-        quote: | #At Siemens Gamesa, we're constantly working on better solutions for renewables – to provide cleaner, more reliable and more affordable energy to society, and to create lasting value for all stakeholders.
-            <p style="font-style: italic;">The Engineer in Training program gave me a stong introduction to the wind energy business and a broad overview of different departments and their roles in the company.  I'm greatful for the network and knowledge I gained that became the foundation for my career with the company</p>
+        quote: >
+            The Engineer in Training program gave me a stong introduction to the wind energy business and a broad overview of different departments and their roles in the company.  I'm greatful for the network and knowledge I gained that became the foundation for my career with the company.
         description: | # this will include new lines to allow paragraphs
-            <br>           
             <ul>
             <li><font size="-0.5">Worked as Service Technician for 8 weeks, completing advanced rescue training for wind turbines, and advanced troubleshooting training.</font></li>
             <li><font size="-0.5">Assisted in site manager duties including customer reporting, leading morning safety meetings, financial reporting, and ground crew support.</font></li>
