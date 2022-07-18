@@ -79,10 +79,9 @@ content:
         link_text: siemensgamesa.com
         sub_title: Senior Project Manager, Americas Region
         caption: 2017 - Present
-        #quote: >
-            At Siemens Gamesa, we're constantly working on better solutions for renewables – to provide cleaner, more reliable and more affordable energy to society, and to create lasting value for all stakeholders.
+        quote: >       #At Siemens Gamesa, we're constantly working on better solutions for renewables – to provide cleaner, more reliable and more affordable energy to society, and to create lasting value for all stakeholders.
         description: | # this will include new lines to allow paragraphs
-            As Senior Project Manager I am responsible for multiple large projects in our portfolio at a time.  I have a strong focus on collaboration with stakholders from multiple departments in multiple regions, to ensure project success and best practice sharing.
+            &nbsp; &nbsp; As Senior Project Manager I am responsible for multiple large projects in our portfolio at a time.  I have a strong focus on collaboration with stakholders from multiple departments in multiple regions, to ensure project success and best practice sharing.
             
             <ul>
             <li><font size="-1">Manage 30-40% of project portfolio, worth ~$10 Million in positive P&L impact per year throughout North and South America.</font></li>
