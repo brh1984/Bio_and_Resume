@@ -73,7 +73,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Siemens Gamesa Renewable Energy
         link: https://www.siemensgamesa.com/en-int
         link_text: siemensgamesa.com
@@ -93,9 +93,7 @@ content:
             <li><font size="-0.5">Reduced preventive maintenance downtime by 36% in North America, and warehouse processing time by 50% in Latin America.</font></li>
             </ul>
 
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
+      - layout: top-middle
         title: Siemens Gamesa Renewable Energy
         link: https://www.siemensgamesa.com/en-int
         link_text: siemensgamesa.com
@@ -120,7 +118,7 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Harvard University
         caption: 2010 - 2013
         sub_title: BSc Computer Science
