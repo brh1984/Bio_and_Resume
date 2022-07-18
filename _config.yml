@@ -82,16 +82,17 @@ content:
         quote: >
             At Siemens Gamesa, we're constantly working on better solutions for renewables – to provide cleaner, more reliable and more affordable energy to society, and to create lasting value for all stakeholders.
         description: | # this will include new lines to allow paragraphs
-            <p style="text-align:center;"> As Senior Project Manager I am responsible for multiple large projects in our portfolio at a time.  I have a strong focus on collaboration with stakholders from multiple departments in multiple regions, to ensure project success and best practice sharing.</p>
-            
+            <hr>
+            As Senior Project Manager I am responsible for multiple large projects in our portfolio at a time.  I have a strong focus on collaboration with stakholders from multiple departments in multiple regions, to ensure project success and best practice sharing.
+            <hr>
             <ul>
-            <li><font size="-1">Manage 30-40% of project portfolio, worth ~$10 Million in positive P&L impact per year throughout North and South America.</font></li>
-            <li><font size="-1">Develop strong collaborative relationships with stakeholders across other departments and other countries to achieve project targets and overall business objectives.</font></li>
-            <li><font size="-1">Responsible for evaluating project improvement ideas, business case development, and managing the execution of project plans across global & regional functions.</font></li>
-            <li><font size="-1">Managed the development, testing, and implementation of web portal and software to streamline service history recording and tracking across fleet of 3000+ turbines in North America.</font></li>
-            <li><font size="-1">Develop and manage detailed scheduling, financial planning, risk mitigation, and stakeholder communication for large regional projects.</font></li>
-            <li><font size="-1">Responsible for preparing and presenting project review updates to business executives and global leadership teams.</font></li>
-            <li><font size="-1">Reduced preventive maintenance downtime by 36% in North America, and warehouse processing time by 50% in Latin America.</font></li>
+            <li><font size="-0.5">Manage 30-40% of project portfolio, worth ~$10 Million in positive P&L impact per year throughout North and South America.</font></li>
+            <li><font size="-0.5">Develop strong collaborative relationships with stakeholders across other departments and other countries to achieve project targets and overall business objectives.</font></li>
+            <li><font size="-0.5">Responsible for evaluating project improvement ideas, business case development, and managing the execution of project plans across global & regional functions.</font></li>
+            <li><font size="-0.5">Managed the development, testing, and implementation of web portal and software to streamline service history recording and tracking across fleet of 3000+ turbines in North America.</font></li>
+            <li><font size="-0.5">Develop and manage detailed scheduling, financial planning, risk mitigation, and stakeholder communication for large regional projects.</font></li>
+            <li><font size="-0.5">Responsible for preparing and presenting project review updates to business executives and global leadership teams.</font></li>
+            <li><font size="-0.5">Reduced preventive maintenance downtime by 36% in North America, and warehouse processing time by 50% in Latin America.</font></li>
             </ul>
 
       - layout: left
