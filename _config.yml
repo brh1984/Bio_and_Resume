@@ -84,9 +84,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             As Senior Project Manager I am responsible for multiple large projects in our portfolio at a time.  I have a strong focus on collaboration with stakholders from multiple departments in multiple regions, to ensure project success and best practice sharing.
             
-            <font size="-1">
             <ul>
-            <li>Manage 30-40% of project portfolio, worth ~$10 Million in positive P&L impact per year throughout North and South America.</li>
+            <li><font size="-1">Manage 30-40% of project portfolio, worth ~$10 Million in positive P&L impact per year throughout North and South America.</font></li>
             <li>Develop strong collaborative relationships with stakeholders across other departments and other countries to achieve project targets and overall business objectives.</li>
             <li>Responsible for evaluating project improvement ideas, business case development, and managing the execution of project plans across global & regional functions.</li>
             <li>Managed the development, testing, and implementation of web portal and software to streamline service history recording and tracking across fleet of 3000+ turbines in North America.</li>
@@ -94,7 +93,6 @@ content:
             <li>Responsible for preparing and presenting project review updates to business executives and global leadership teams.</li>
             <li>Reduced preventive maintenance downtime by 36% in North America, and warehouse processing time by 50% in Latin America.</li>
             </ul>
-            </font>
 
       - layout: left
         title: The Boring Company
