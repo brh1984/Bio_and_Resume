@@ -66,9 +66,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          “Tell me and I forget, teach me and I may remember, involve me and I learn.”
+          ― Benjamin Franklin
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          For me, the best way to learn is by doing.  This project gave me a chance to learn some newer ways to create a web page and a brush up on things I've learned in the past.  A fun way to share my work experience and a little more about me.  Hope you like it!
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
