@@ -55,13 +55,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: My Profile Web Page
+        link: github.com/brh1984/brh1984.github.io
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  My Profile Web Page Project
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/brh1984/brh1984.github.io
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
