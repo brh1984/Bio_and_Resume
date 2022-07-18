@@ -74,10 +74,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Siemens Gamesa Renewable Energy
+        title: Senior Project Manager, Americas Region
         link: https://www.siemensgamesa.com/en-int
         link_text: siemensgamesa.com
-        sub_title: Senior Project Manager, Americas Region
+        sub_title: Siemens Gamesa Renewable Energy
         caption: 2017 - Present
         quote: > 
             As Senior Project Manager I am responsible for multiple large projects in our portfolio at a time.  I have a strong focus on collaboration with stakholders from multiple departments in multiple regions, to ensure project success and best practice sharing.
@@ -93,10 +93,10 @@ content:
             </ul>
 
       - layout: top-middle
-        title: Siemens Energy, Inc
+        title: Project Manager, Americas Region
         link: https://www.siemens-energy.com/us/en.html?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb23wRe8QoKQWdkBxCfg6Q_FEQHNQmGvBPMk4KXSgtOXEQXv1Pc9wsQaAj1EEALw_wcB
         link_text: siemens-energy.com
-        sub_title: Senior Project Manager, Americas Region
+        sub_title: Siemens Energy, Inc
         caption: 2013 - 2017
         quote: >
             As a project manager I was responsible for seeing all my projects through from defining to closing, as well as coach other project managers through the same process.
@@ -108,10 +108,10 @@ content:
             </ul>
 
       - layout: top-middle
-        title: Siemens Energy, Inc
+        title: Process Engineer
         link: https://www.siemens-energy.com/us/en.html?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb23wRe8QoKQWdkBxCfg6Q_FEQHNQmGvBPMk4KXSgtOXEQXv1Pc9wsQaAj1EEALw_wcB
         link_text: siemens-energy.com
-        sub_title: Process Engineer
+        sub_title: Siemens Energy, Inc
         caption: 2012 - 2013
         quote: >
             This role focused on delivering specific measurable improvements for processes in supply chain, engineering, sales, and operations.
@@ -123,10 +123,10 @@ content:
             </ul>
             
       - layout: top-middle
-        title: Siemens Energy, Inc
+        title: Engineer in Training Program
         link: https://www.siemens-energy.com/us/en.html?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb23wRe8QoKQWdkBxCfg6Q_FEQHNQmGvBPMk4KXSgtOXEQXv1Pc9wsQaAj1EEALw_wcB
         link_text: siemens-energy.com
-        sub_title: Engineer in Training Program
+        sub_title: Siemens Energy, Inc
         caption: 2011 - 2012
         quote: >
             The Engineer in Training program gave me a stong introduction to the wind energy business and a broad overview of different departments and their roles in the company.  I'm greatful for the network and knowledge I gained that became the foundation for my career with the company.
