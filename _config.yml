@@ -94,26 +94,53 @@ content:
             </ul>
 
       - layout: top-middle
-        title: Siemens Gamesa Renewable Energy
-        link: https://www.siemensgamesa.com/en-int
-        link_text: siemensgamesa.com
+        title: Siemens Energy, Inc
+        link: https://www.siemens-energy.com/us/en.html?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb23wRe8QoKQWdkBxCfg6Q_FEQHNQmGvBPMk4KXSgtOXEQXv1Pc9wsQaAj1EEALw_wcB
+        link_text: siemens-energy.com
         sub_title: Senior Project Manager, Americas Region
-        caption: 2017 - Present
+        caption: 2013 - 2017
         quote: | #At Siemens Gamesa, we're constantly working on better solutions for renewables – to provide cleaner, more reliable and more affordable energy to society, and to create lasting value for all stakeholders.
-            <p style="font-style: italic;">As Senior Project Manager I am responsible for multiple large projects in our portfolio at a time.  I have a strong focus on collaboration with stakholders from multiple departments in multiple regions, to ensure project success and best practice sharing.</p>
+            <p style="font-style: italic;">As a project manager I was responsible for seeing all my projects through from defining to closing, as well as coach other project managers through the same process.</p>
         description: | # this will include new lines to allow paragraphs
             <br>           
             <ul>
-            <li><font size="-0.5">Manage 30-40% of project portfolio, worth ~$10 Million in positive P&L impact per year throughout North and South America.</font></li>
-            <li><font size="-0.5">Develop strong collaborative relationships with stakeholders across other departments and other countries to achieve project targets and overall business objectives.</font></li>
-            <li><font size="-0.5">Responsible for evaluating project improvement ideas, business case development, and managing the execution of project plans across global & regional functions.</font></li>
-            <li><font size="-0.5">Managed the development, testing, and implementation of web portal and software to streamline service history recording and tracking across fleet of 3000+ turbines in North America.</font></li>
-            <li><font size="-0.5">Develop and manage detailed scheduling, financial planning, risk mitigation, and stakeholder communication for large regional projects.</font></li>
-            <li><font size="-0.5">Responsible for preparing and presenting project review updates to business executives and global leadership teams.</font></li>
-            <li><font size="-0.5">Reduced preventive maintenance downtime by 36% in North America, and warehouse processing time by 50% in Latin America.</font></li>
+            <li><font size="-0.5">Managed projects from define to closing stages, building project teams, reporting to stakeholders, and managing project schedules and financials, leading to $2.77 million in positive P&L impact.</font></li>
+            <li><font size="-0.5">Assumed management of struggling projects, recovering $2.05 million in previous losses.</font></li>
+            <li><font size="-0.5">	Coached leads on projects worth $2.75 Million in positive P&L impact across multiple departments.</font></li>
             </ul>
 
-      
+      - layout: top-middle
+        title: Siemens Energy, Inc
+        link: https://www.siemens-energy.com/us/en.html?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb23wRe8QoKQWdkBxCfg6Q_FEQHNQmGvBPMk4KXSgtOXEQXv1Pc9wsQaAj1EEALw_wcB
+        link_text: siemens-energy.com
+        sub_title: Process Engineer
+        caption: 2012 - 2013
+        quote: | #At Siemens Gamesa, we're constantly working on better solutions for renewables – to provide cleaner, more reliable and more affordable energy to society, and to create lasting value for all stakeholders.
+            <p style="font-style: italic;">This role focused on delivering specific measurable improvements for processes in supply chain, engineering, sales, and operations.</p>
+        description: | # this will include new lines to allow paragraphs
+            <br>           
+            <ul>
+            <li><font size="-0.5">Organized and led process improvement events across North American service sites, totaling $313K in annual labor savings, reducing service lead times by 20%.</font></li>
+            <li><font size="-0.5">Developed and ran training for 39 field personnel to run process improvements at their own sites, increasing project capacity from 1 event a week to 5-8 events a week, and increasing sustainability of event outcomes.</font></li>
+            <li><font size="-0.5">Identified and remediated at least 24 safety concerns while in the field</font></li>
+            </ul>
+            
+      - layout: top-middle
+        title: Siemens Energy, Inc
+        link: https://www.siemens-energy.com/us/en.html?gclid=Cj0KCQjwidSWBhDdARIsAIoTVb23wRe8QoKQWdkBxCfg6Q_FEQHNQmGvBPMk4KXSgtOXEQXv1Pc9wsQaAj1EEALw_wcB
+        link_text: siemens-energy.com
+        sub_title: Engineer in Training Program
+        caption: 2011 - 2012
+        quote: | #At Siemens Gamesa, we're constantly working on better solutions for renewables – to provide cleaner, more reliable and more affordable energy to society, and to create lasting value for all stakeholders.
+            <p style="font-style: italic;">The Engineer in Training program gave me a stong introduction to the wind energy business and a broad overview of different departments and their roles in the company.  I'm greatful for the network and knowledge I gained that became the foundation for my career with the company</p>
+        description: | # this will include new lines to allow paragraphs
+            <br>           
+            <ul>
+            <li><font size="-0.5">Worked as Service Technician for 8 weeks, completing advanced rescue training for wind turbines, and advanced troubleshooting training.</font></li>
+            <li><font size="-0.5">Assisted in site manager duties including customer reporting, leading morning safety meetings, financial reporting, and ground crew support.</font></li>
+            <li><font size="-0.5">Managed small continuous improvement projects consisting of training teams, facilitating workshops, and executing workshop outcomes.</font></li>
+            <li><font size="-0.5">Developed program for organizing and running community service projects in towns around field sites.</font></li>
+            </ul>
            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
