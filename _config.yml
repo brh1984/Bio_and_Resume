@@ -43,7 +43,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Brandon Horsley, and I'm a senior project manager at Siemens Gamesa Renewable Energy. I have experience in engineering, process improvement, and training. I've worked in project management in the energy sector for 11 years, gaining teamwork and leadership skills.  In addition to my professional career, I've been happily married for 6 years and have two wonderful kids with a third on the way!
@@ -190,6 +190,15 @@ content:
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
+# About Section
+about_title: About Me
+about_profile_image: images/profile.JPG
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Brandon Horsley, and I'm a senior project manager at Siemens Gamesa Renewable Energy. I have experience in engineering, process improvement, and training. I've worked in project management in the energy sector for 11 years, gaining teamwork and leadership skills.  In addition to my professional career, I've been happily married for 6 years and have two wonderful kids with a third on the way!
+
+  I am most skilled in: <mark>Project Managment</mark>, <mark>Process Improvement</mark>, and <mark>Project Collaboration</mark>
+
 
 # Footer
 footer_show_references: true
