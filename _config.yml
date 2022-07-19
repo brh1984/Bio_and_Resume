@@ -179,18 +179,21 @@ content:
           For me, the best way to learn is by doing.  This project gave me a chance to learn some newer ways to create a web page and a brush up on things I've learned in the past.  A fun way to share my work experience and a little more about me.  Hope you like it!
 
   - title: A Little More About Me
-    layout: list
-    content: | # this will include new lines to allow paragraphs
-      - layout: Left
-        title: ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title:  ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+        quote: >
+          “Tell me and I forget, teach me and I may remember, involve me and I learn.”
+          ― Benjamin Franklin
         description: | # this will include new lines to allow paragraphs
-        Alongside my interests Engineering and Project Management, I love to persue my personal hobbies:
-      - Fishing
-      - Weight Lifting and Nutrition
-      - Woodworking
-      - Boogie Boarding
-      - Travel
-      - Collecting Christmas Village Houses :)
+          Alongside my interests Engineering and Project Management, I love to persue my personal hobbies:
+          - Fishing
+          - Weight Lifting and Nutrition
+          - Woodworking
+          - Boogie Boarding
+          - Travel
+          - Collecting Christmas Village Houses :)
       
 
 
