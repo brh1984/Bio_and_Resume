@@ -51,26 +51,6 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Project Managment</mark>, <mark>Process Improvement</mark>, and <mark>Project Collaboration</mark>
 
 content:
-  - title: Personal Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: My Profile Web Page
-        link: github.com/brh1984/brh1984.github.io
-        # link_text: Project Website
-        additional_links:
-          - title:  My Profile Web Page Project
-            icon: fab fa-github
-            url: github.com/brh1984/brh1984.github.io
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          “Tell me and I forget, teach me and I may remember, involve me and I learn.”
-          ― Benjamin Franklin
-        description: | # this will include new lines to allow paragraphs
-          For me, the best way to learn is by doing.  This project gave me a chance to learn some newer ways to create a web page and a brush up on things I've learned in the past.  A fun way to share my work experience and a little more about me.  Hope you like it!
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -139,26 +119,65 @@ content:
             <li><font size="-0.5">Developed program for organizing and running community service projects in towns around field sites.</font></li>
             </ul>
            
-  - title: Education # Title for the section
+  - title: Education and Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Brigham Young University
-        caption: 2010 - 2013
-        sub_title: BSc Mechanical Engineering
+        title: BS Mechanical Engineering
+        caption: 2011
+        sub_title: Brigham Young University
         quote: >
-          A BYU education should be spiritually strengthening, intellectually enlarging, and character building, leading to lifelong learning and service. -The Aims of a BYU Education-
+          A BYU education should be spiritually strengthening, intellectually enlarging, and character building, leading to lifelong learning and service. - The Aims of a BYU Education
         description: | # this will include new lines to allow paragraphs
           During my time at BYU I focused not only on my major in engineering, but in taking other classes that would make me well rounded.  Public speaking, Personal Finance, and World History classes were a few.  I joined one of my professors over a summer to assist in graduate research on the propogation of gravity waves in the ocean and atomosphere.  I was a member of Engineers without boarders, traveling to Peru to install a wind turbine in a small village.  I was able to do an internship with Atlas Copco in Nanjing, China.  Finally, I graduated magna cum laude in 2011 when I was recruited by Siemens Energy. 
+
+      - layout: top-middle
+        title: Certified Project Management Professional
+        caption: 2016 - Present
+        sub_title: Project Management Institute
+        quote: >
+          Project Management Institute (PMI) is the leading professional association for project management, and the authority for a growing global community of millions of project professionals and individuals who use project management skills.
+        description: | # this will include new lines to allow paragraphs
+          As a project management professional I've studied project management principles, coached and trained other project managers, and managed many projects, building on the education I gained before certification and allowing me to continue to renew certification.  The main thing my experience has taught me is how to manage stakholders and customers, and how change management.  These require good communication skills and planning as well as an understanding of how projects affect people, and are key to successfully delivering project results and sustaining them.
+          
+      - layout: top-middle
+        title: Certified Lean Expert and Trainer
+        caption: 2018
+        sub_title: Siemens Energy
+        quote: >
+          Lean thinking always starts with the customer. What does the customer value? Or, stated differently and in a way that invites concrete action, what problem does the customer need to solve?
+        description: | # this will include new lines to allow paragraphs
+          Lean methodology has taught me to focus on delivering value to my customer.  We focus on removing waste in order to efficiently do that.  My experience involves implimenting Plan, Do, Check, Act cycles, A3 problem solving, and Shop Floor Management systems.  I've trained and certified over 25 colleges as lean practitioners in our organization as well.
+
+  - title: Personal Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: My Profile Web Page
+        link: github.com/brh1984/brh1984.github.io
+        # link_text: Project Website
+        additional_links:
+          - title:  My Profile Web Page Project
+            icon: fab fa-github
+            url: github.com/brh1984/brh1984.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          “Tell me and I forget, teach me and I may remember, involve me and I learn.”
+          ― Benjamin Franklin
+        description: | # this will include new lines to allow paragraphs
+          For me, the best way to learn is by doing.  This project gave me a chance to learn some newer ways to create a web page and a brush up on things I've learned in the past.  A fun way to share my work experience and a little more about me.  Hope you like it!
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests Engineering and Project Management, I love to persue my personal hobbies:
+      - Weight Lifting and Nutrition
+      - Woodworking
+      - Boogie Boarding
+      - Travel
+      - Collecting Christmas Village Hourses :)
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
