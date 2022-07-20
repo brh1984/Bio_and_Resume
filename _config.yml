@@ -182,8 +182,12 @@ content:
     layout: list
     content:
       - layout: left
-        title: 
-        caption: blank
+        title: Test of pic
+        caption: 
+           <a href="https://www.qries.com/">
+              <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+               width=150" height="70">
+           </a>
         quote: >
           Alongside my interests Engineering and Project Management, I love to persue my personal hobbies:
         description: | # this will include new lines to allow paragraphs
