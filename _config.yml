@@ -179,7 +179,7 @@ content:
           For me, the best way to learn is by doing.  This project gave me a chance to learn some newer ways to create a web page and a brush up on things I've learned in the past.  A fun way to share my work experience and a little more about me.  Hope you like it!
 
   - title: A Little More About Me
-    layout: text
+    layout: list
     content: | # this will include new lines to allow paragraphs
           Alongside my interests Engineering and Project Management, I love to persue my personal hobbies:
           - Fishing
