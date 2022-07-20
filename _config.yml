@@ -182,7 +182,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: ![Trees](/brh1984.github.io/images/landscape-trees.jpg "Trees")
+        title: 
         caption: blank
         quote: >
           Alongside my interests Engineering and Project Management, I love to persue my personal hobbies:
@@ -195,7 +195,10 @@ content:
           - Collecting Christmas Village Houses :)
           - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
           - Look at this cool image  
-           
+           <a href="https://www.qries.com/">
+              <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+               width=150" height="70">
+           </a>
 
 
 # Footer
