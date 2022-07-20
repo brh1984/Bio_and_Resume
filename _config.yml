@@ -181,7 +181,7 @@ content:
   - title: A Little More About Me
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: Hobbies
         caption: blank
         quote: >
