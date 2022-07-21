@@ -60,6 +60,26 @@ content:
         description: | # this will include new lines to allow paragraphs
           I was raised in a military family, and I have always admired our soldiers and what they do.  Ever since I graduated from college I have felt a pull to be a part of that in some small way, and if possible, do a service for those that serve our country.  My career thus far has provided me with many learning opportunities and many useful skills.  My goal is to find opportunities to employ those skills in the service of others, and in the areas I'm most passionate about.
 
+  - title: Personal Project # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: My Profile Web Page
+        link: github.com/brh1984/brh1984.github.io
+        # link_text: Project Website
+        additional_links:
+          - title:  My Profile Web Page Project
+            icon: fab fa-github
+            url: github.com/brh1984/brh1984.github.io
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          “Tell me and I forget, teach me and I may remember, involve me and I learn.”
+          ― Benjamin Franklin
+        description: | # this will include new lines to allow paragraphs
+          For me, the best way to learn is by doing.  This project gave me a chance to learn some newer ways to create a web page and a brush up on things I've learned in the past.  A fun way to share my work experience and a little more about me.  Hope you like it!
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -157,26 +177,6 @@ content:
           Lean thinking always starts with the customer. What does the customer value? Or, stated differently and in a way that invites concrete action, what problem does the customer need to solve?
         description: | # this will include new lines to allow paragraphs
           Lean methodology has taught me to focus on delivering value to my customer.  We focus on removing waste in order to efficiently do that.  My experience involves implimenting Plan, Do, Check, Act cycles, A3 problem solving, and Shop Floor Management systems.  I've trained and certified over 25 colleges as lean practitioners in our organization as well.
-
-  - title: Personal Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: My Profile Web Page
-        link: github.com/brh1984/brh1984.github.io
-        # link_text: Project Website
-        additional_links:
-          - title:  My Profile Web Page Project
-            icon: fab fa-github
-            url: github.com/brh1984/brh1984.github.io
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          “Tell me and I forget, teach me and I may remember, involve me and I learn.”
-          ― Benjamin Franklin
-        description: | # this will include new lines to allow paragraphs
-          For me, the best way to learn is by doing.  This project gave me a chance to learn some newer ways to create a web page and a brush up on things I've learned in the past.  A fun way to share my work experience and a little more about me.  Hope you like it!
 
   - title: A Little More About Me
     layout: list
