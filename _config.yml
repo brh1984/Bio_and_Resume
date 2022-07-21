@@ -182,23 +182,21 @@ content:
     layout: list
     content:
       - layout: left
-        title: <p style="text-align:center;">Canyoneering in Zion National Park</p>
+        title: <p style="text-align:left;">Canyoneering in Zion National Park</p>
         caption: 
            <a href="https://www.qries.com/">
               <img alt="Trees" src="https://github.com/brh1984/brh1984.github.io/blob/main/images/zions canyon.jpg?raw=true"
-               width=210" height="150">
+               width=200" height="150">
            </a>
         quote: >
-          Alongside my interests Engineering and Project Management, I love to persue my personal hobbies:
-        description: | # this will include new lines to allow paragraphs
+          Alongside my interests in Engineering and Project Management, I love to persue my personal hobbies:
+        description: | # this will include new lines to allow paragraphs, [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
           - Fishing
           - Weight Lifting and Nutrition
           - Woodworking
           - Boogie Boarding
           - Travel
           - Collecting Christmas Village Houses :)
-          - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
 
 # Footer
 footer_show_references: true
