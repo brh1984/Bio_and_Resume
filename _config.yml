@@ -193,12 +193,14 @@ content:
           Alongside my interests in Engineering and Project Management, I love to persue my personal hobbies:
         description: | # this will include new lines to allow paragraphs, [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
           <p style="text-align:center;">
-          - Fishing
-          - Weight Lifting and Nutrition
-          - Woodworking
-          - Boogie Boarding
-          - Travel
-          - Collecting Christmas Village Houses :)
+          <ul>
+            <li><font size="-0.5">Fishing</font></li>
+            <li><font size="-0.5">Weight Lifting and Nutrition</font></li>
+            <li><font size="-0.5">Woodworking</font></li>
+            <li><font size="-0.5">Adventure racing</font></li>
+            <li><font size="-0.5">Travel</font></li>
+            <li><font size="-0.5">Collecting Christmas Village Houses :)</font></li>
+          </ul>
           </p>
 
 # Footer
