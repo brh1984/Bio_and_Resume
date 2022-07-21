@@ -188,9 +188,11 @@ content:
                width=225" height="175">
            </a>
         caption: 
-           <p style="text-align:left;">Canyoneering in Zion National Park</p>
+           <p style="text-align:left;">
+             <font size="12">Canyoneering in Zion National Park</font>
+           </p>
         quote: >
-          Alongside my interests in Engineering and Project Management, I love to persue my personal hobbies:
+          <p style="text-align:left;">Alongside my interests in Engineering and Project Management, I love to persue my personal hobbies:</p>
         description: | # this will include new lines to allow paragraphs, [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
           <p style="text-align:center;">
           <ul>
