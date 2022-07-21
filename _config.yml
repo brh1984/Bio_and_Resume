@@ -192,12 +192,14 @@ content:
         quote: >
           Alongside my interests in Engineering and Project Management, I love to persue my personal hobbies:
         description: | # this will include new lines to allow paragraphs, [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+          <p style="text-align:center;">
           - Fishing
           - Weight Lifting and Nutrition
           - Woodworking
           - Boogie Boarding
           - Travel
           - Collecting Christmas Village Houses :)
+          </p>
 
 # Footer
 footer_show_references: true
