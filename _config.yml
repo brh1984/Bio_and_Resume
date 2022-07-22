@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Brandon Horsley, PMP
-title: Senior Project Manager
+title: Senior Project Manager, SGRE
 email: brandon082084@gmail.com
 phone: 713-923-0036 
 # website: https://brh1984.github.io/
@@ -58,7 +58,8 @@ content:
         quote: >
           “Never let the fear of striking out keep you from playing the game” – Babe Ruth
         description: | # this will include new lines to allow paragraphs
-          I was raised in a military family, and I have always admired our soldiers and what they do.  Ever since I graduated from college I have felt a pull to be a part of that in some small way, and if possible, do a service for those that serve our country.  My career thus far has provided me with many learning opportunities and many useful skills.  My goal is to find opportunities to employ those skills in the service of others, and in the areas I'm most passionate about.
+          I was raised in a military family, and I have always admired my Dad for his service to our country and those around him.  Ever since I graduated from college I have felt a pull to be a part of that in some small way, and to build a career that allows me to have a meeningful impact on the world around me.  My career thus far has provided me with many learning opportunities and many useful skills.  My goal is to find opportunities to employ those skills in the service of others, and in the areas I'm most passionate about.
+          
 
   - title: Personal Project # Title for the section
     layout: list # Type of content section (list/text)
